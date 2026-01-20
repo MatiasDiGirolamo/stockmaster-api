@@ -186,4 +186,4 @@ Este proyecto es propiedad de Matías Di Girolamo y puede ser comercializado.
 
 Desarrollado por **Matías Di Girolamo**
 - LinkedIn: https://www.linkedin.com/in/matiasdigirolamo/
-- Email: contact@matiasdigirolamo.com
+- Email: matidigi23@gmail.com
